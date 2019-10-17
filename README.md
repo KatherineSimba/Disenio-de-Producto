@@ -9,6 +9,8 @@
  El sistema de diseño es una decisión que hace mucho más productivo un proceso de una empresa, para crear un sistema de diseño hay que tener en cuenta todos los niveles de desarrollo y que el modelo diseñado se sigua por todas las fases. 
  Un sistema puede ser consultado, involucrados, compartido y que se pueda implementar. 
 
+ El diseño del producto es de suma importancia para el desarrollo y supervivencia de las empresas.  Existen industrias que cambian con rapidez, y la introducción de nuevos productos bien diseñados ha constituido parte fundamental de su éxito. La toma de decisiones sobre el diseño del producto es primordial, pues estas afectan a cada una de las áreas de toma de decisiones, por lo tanto el diseño del producto debe de coordinarse con el área de diseño de procesos y sistemas.
+
 ### PRINCIPIOS. 
 
 los principios marcan todas las reglas de nuestro producto, son la base fundamental para paradigmas y metodologías de nuestro sistema, es aquí donde establecemos las reglas o principios que regirán en el desarollo del nuestro proyecto. 
